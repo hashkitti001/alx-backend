@@ -1,0 +1,22 @@
+# English translations for i18n
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: iJeddy@gmail.com\n"
+"POT-Creation-Date: 2024-11-06 01:12+0100\n"
+"PO-Revision-Date: 2024-11-06 01:12+0100\n"
+"Last-Translator: Iwegbu Jedidiah <iJeddy5.0@gmail.com>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+msgid "home_title"
+msgstr "Welcome to Holberton"
+
+msgid "home_header"
+msgstr "Hello world!"
+

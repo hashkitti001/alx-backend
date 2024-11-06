@@ -1,0 +1,11 @@
+# English translations for i18n
+
+msgid ""
+msgstr ""
+
+msgid "home_title"
+msgstr "Welcome to Holberton"
+
+msgid "home_header"
+msgstr "Hello world!"
+

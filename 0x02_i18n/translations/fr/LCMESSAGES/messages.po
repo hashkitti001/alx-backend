@@ -1,0 +1,11 @@
+# French translations for i18n
+
+msgid ""
+msgstr ""
+
+msgid "home_title"
+msgstr "Bienvenue chez Holberton"
+
+msgid "home_header"
+msgstr "Bonjour monde!"
+
